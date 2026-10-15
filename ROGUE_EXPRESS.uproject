@@ -26,17 +26,6 @@
 		{
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
-		},
-		{
-			"Name": "UnrealCliBridge",
-			"Enabled": true
-		}
-	],
-	"Modules": [
-		{
-			"Name": "ROGUE_EXPRESS",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
 		}
 	]
 }
